@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "esModuleInterop": true,
+    "moduleResolution": "node",
+    "module": "CommonJS",
+    "target": "ES5",
+    "downlevelIteration": true,
+    "lib": ["DOM", "ES2015"],
+    "sourceMap": true,
+    "jsx": "react-jsx"
+  }
+}
